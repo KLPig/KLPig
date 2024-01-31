@@ -22,7 +22,7 @@ G|Give up
 ## All resporsitories
 Name|Status|Description
 :--:|:----:|:---------:
-KLpig|Basic one
+KLpig|W|Basic one
 [klpig.github.io](https://klpig.github.io)|W|Github page
 klpig.cyklib|WL|Try to make a python moded DELTARUNE
 

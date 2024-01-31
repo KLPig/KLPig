@@ -28,7 +28,7 @@ klpig.cyklib|WL|Try to make a python moded DELTARUNE
 
 
 
-^WHY]: I am introverted.
+[^WHY]: I am introverted.
 <!---
 KLPig/KLPig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

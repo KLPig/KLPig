@@ -18,13 +18,15 @@ Short form|Description
 QW|Quickly Working
 W|simply Working
 LW|Lasily Working
-G|Give up
+G|Given up
+P|Paused
 ## All resporsitories
 Name|Status|Description
 :--:|:----:|:---------:
 KLpig|W|Basic one
 [klpig.github.io](https://klpig.github.io)|W|Github page
-klpig.cyklib|WL|Try to make a python moded DELTARUNE
+klpig.cyklib|P|Try to make a python moded DELTARUNE
+[scpo502.github.io](https://scpo502.github.io)|W|Collabration with @SCPO502
 
 
 

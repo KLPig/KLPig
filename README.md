@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on @SCPO502
 - 📫 How to reach me NOWAY[^WHY]
 - 😄 Pronouns: He
-- ⚡ Fun fact: Nope.
+- ⚡ Language: 中文 + English
 # Your name
 `KLPig`，顧名思義，就是`KL` 加 `pig`，美國五星上將麥克阿瑟將軍曾經說過：
 > 給他一個KL和一隻豬，他能變成KLPIG。
